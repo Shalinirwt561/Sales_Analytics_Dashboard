@@ -1,0 +1,31 @@
+# Sales Analytics Dashboard
+
+## Project Overview
+This project analyzes sales data using SQL and Power BI.
+
+## Tools Used
+- SQL
+- Power BI
+- Excel (Data Cleaning)
+
+## Files Included
+- Sales Query.sql
+- Sales Dashboard.pbix
+- Sales Dashboard.pdf
+
+## Key Insights
+- Total Revenue: $1.6M
+- Total Orders: 4000
+- Highest Revenue Category: Home
+- Most Popular Products: USB Cable, Yoga Mat, Perfume
+- Revenue declined over months
+
+## Skills Demonstrated
+- SQL Query Writing
+- Data Cleaning
+- KPI Analysis
+- Dashboard Design
+- Business Insights
+
+## Dashboard Preview
+See Sales Dashboard.pdf
